@@ -1,5 +1,5 @@
 {
-  "name": "opti-backend",
+  "name": "brucefi-backend",
   "module": "index.ts",
   "type": "module",
   "scripts": {
